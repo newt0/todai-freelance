@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Meghnaクイックスターター"
-  content : "JAMStackで美しいLPを構築しよう"
+  title : "東大×Freelance"
+  content : "東大人材の専門性を社会に還元する"
   button:
     enable : true
     label : "Explore Us"

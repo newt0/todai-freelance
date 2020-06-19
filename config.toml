@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://meghna-quickstarter.netlify.app/"
-title = "Meghnaクイックスターター"
+title = "東大フリーランス"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -86,7 +86,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "日本人のためのmeghnaクイックスターターです。"
+description = "東大生・東大OBOGのための案件マッチングプラットフォームです。"
 author = "newt0"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -115,21 +115,21 @@ link = "#"
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
 
 ################################ English Language ########################
