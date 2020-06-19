@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["En", "Fr"]
+disableLanguages = ["En"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -141,16 +141,7 @@ weight = 2
 home = "Home"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 3
-home = "Accueil"
-copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
-
-################################ English Language ########################
+################################ Japnese Language ########################
 [Languages.ja]
 languageName = "Ja"
 languageCode = "ja-jp"
