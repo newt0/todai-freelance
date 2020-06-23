@@ -1,24 +1,24 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title : Skills
+  subtitle : ハイスキル・ハイクオリティな東大人材。
+  # content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  機械学習・深層学習
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
+    - name :  データ分析
       percent : 70%
       
     # skill item loop
-    - name :  Design
+    - name :  UXデザイン
       percent : 80%
       
-    - name :  IOS Development
+    - name :  マーケティング・広告運用
       percent : 95%
       
     # skill item loop
