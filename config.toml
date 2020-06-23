@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://meghna-quickstarter.netlify.app/"
+baseURL = "https://todai-freelance.netlify.app/"
 title = "東大フリーランス"
 theme = "meghna-hugo"
 # post pagination
