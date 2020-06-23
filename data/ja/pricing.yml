@@ -1,64 +1,67 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : 単価例
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
+    - name : 機械学習PoC
+      price : 800,000円
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
+        - 副業
+        - フルリモートOK
+        - フレックス・タイム
         - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 週20時間~
+        - Python
+        - Keras
       button:
-        label : "Signup"
-        link : "#"
+        label : "予約登録する"
+        link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : ブロックチェーンReseacher
+      price : 3000円
+      unit : hour
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - インターン
+        - 学生OK
+        - 学業と並行しやすい
+        - 最先端領域の知見を得られる
+        - English Skill(Reading)
+        - 起業に役立つ
       button:
-        label : "Signup"
-        link : "#"
+        label : "予約登録する"
+        link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
         
     # pricing table loop
-    - name : Gold
-      price : $199
+    - name : FB広告運用
+      price : 300,000円
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 業務委託
+        - マーケティング力が身に付く
+        - リモートOK
+        - 急成長中のD2C事業の広告運用
+        - ポテンシャル採用可
+        - Adobe
+        - Google Analitics
       button:
-        label : "Signup"
-        link : "#"
+        label : "予約登録する"
+        link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
         
     # pricing table loop
-    - name : Platinum
-      price : $299
+    - name : 事業開発
+      price : 350,000円
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 正社員
+        - ITスタートアップの幹部候補
+        - 経営陣は上場を経験
+        - ヘルステック✖️AI
+        - 10億円の資金調達済み
+        - 福利構成が充実
+        - 東大発ベンチャー
       button:
-        label : "Signup"
-        link : "#"
+        label : "予約登録する"
+        link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
