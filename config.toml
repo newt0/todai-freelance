@@ -66,10 +66,10 @@ name = "pricing"
 URL = "pricing"
 weight = 5
 
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 6
+# [[menu.main]]
+# name = "blog"
+# URL = "blog"
+# weight = 6
 
 [[menu.main]]
 name = "contact"
