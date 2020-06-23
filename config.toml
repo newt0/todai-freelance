@@ -84,7 +84,8 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_header.png"
+logo_footer = "images/logo_footer.png"
 # Meta data
 description = "東大生・東大OBOGのための案件マッチングプラットフォームです。"
 author = "newt0"
