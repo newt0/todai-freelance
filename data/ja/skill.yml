@@ -1,6 +1,6 @@
 ################################# Skill ##################################
 skill:
-  enable : true
+  enable : false
   title : Skills
   subtitle : ハイスキル・ハイクオリティな東大人材。
   # content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
