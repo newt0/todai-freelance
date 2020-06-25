@@ -1,10 +1,10 @@
 ############################# feature ###################################
 feature:
-  enable : true
+  enable : false
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : 「東大フリーランス」は東大生・東大卒業生限定のクラウドソーシングエージェントです。
+  content : "東大の方限定で特別オファーをご紹介します。"
   feature_item : 
       # feature item loop
     - title : SEO Optimized

@@ -1,8 +1,8 @@
 ################################# Skill ##################################
 skill:
-  enable : false
+  enable : true
   title : Skills
-  subtitle : ハイスキル・ハイクオリティな東大人材。
+  subtitle : 
   # content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
   skill_item :
@@ -18,9 +18,9 @@ skill:
     - name :  UXデザイン
       percent : 80%
       
-    - name :  マーケティング・広告運用
+    - name :  広告運用
       percent : 95%
       
     # skill item loop
-    - name :  Android Development
+    - name :  Web開発
       percent : 75%

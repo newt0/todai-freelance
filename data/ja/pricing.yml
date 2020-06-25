@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : 単価例
+  title : 案件例
   pricing_table :
     # pricing table loop
     - name : 機械学習PoC
