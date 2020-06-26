@@ -8,10 +8,9 @@ pricing:
       price : 800,000円
       unit : month
       services:
-        - 副業
-        - フルリモートOK
+        - 業務委託/副業
+        - リモート可
         - フレックス・タイム
-        - Script Installer
         - 週20時間~
         - Python
         - Keras
@@ -27,9 +26,9 @@ pricing:
       price : 3000円
       unit : hour
       services:
-        - インターン
+        - インターン/副業
         - 学生OK
-        - 学業と並行しやすい
+        - リモート可
         - 最先端領域の知見を得られる
         - English Skill(Reading)
         - 起業に役立つ
@@ -37,7 +36,7 @@ pricing:
         label : "Researcher予約登録(学生)"
         link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
       button_second:
-        label : "Researcher予約登録する(既卒)"
+        label : "Researcher予約登録(既卒)"
         link : "https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit"
         
     # pricing table loop
@@ -45,12 +44,12 @@ pricing:
       price : 300,000円
       unit : month
       services:
-        - 業務委託
-        - マーケティング力が身に付く
-        - リモートOK
-        - 急成長中のD2C事業の広告運用
+        - 業務委託/副業
+        - リモート可
         - ポテンシャル採用可
-        - Adobe
+        - 急成長中のD2C事業の広告運用
+        - マーケティング力が身に付く
+        - Adobe各種ソフト
         - Google Analitics
       button:
         label : "マーケター予約登録(学生)"
