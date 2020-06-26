@@ -16,11 +16,14 @@ pricing:
         - Python
         - Keras
       button:
-        label : "予約登録する"
+        label : "エンジニア予約登録(学生)"
         link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
+      button_second:
+        label : "エンジニア予約登録(既卒)"
+        link : "https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit"
       
     # pricing table loop
-    - name : ブロックチェーンReseacher
+    - name : ブロックチェーンResearcher 
       price : 3000円
       unit : hour
       services:
@@ -31,8 +34,11 @@ pricing:
         - English Skill(Reading)
         - 起業に役立つ
       button:
-        label : "予約登録する"
+        label : "Researcher予約登録(学生)"
         link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
+      button_second:
+        label : "Researcher予約登録する(既卒)"
+        link : "https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit"
         
     # pricing table loop
     - name : FB広告運用
@@ -47,8 +53,11 @@ pricing:
         - Adobe
         - Google Analitics
       button:
-        label : "予約登録する"
+        label : "マーケター予約登録(学生)"
         link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
+      button_second:
+        label : "マーケター予約登録(既卒)"
+        link : "https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit"
         
     # pricing table loop
     - name : 事業開発
@@ -63,5 +72,8 @@ pricing:
         - 福利構成が充実
         - 東大発ベンチャー
       button:
-        label : "予約登録する"
+        label : "BizDev予約登録(学生)"
         link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
+      button_second:
+        label : "BizDev予約登録(既卒)"
+        link : "https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit"
