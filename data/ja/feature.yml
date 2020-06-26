@@ -1,6 +1,6 @@
 ############################# feature ###################################
 feature:
-  enable : false
+  enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : 「東大フリーランス」は東大生・東大卒業生限定のクラウドソーシングエージェントです。

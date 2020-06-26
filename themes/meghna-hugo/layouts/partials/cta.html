@@ -16,6 +16,11 @@
 				<a href="{{ .link }}" target="_blank" class="btn btn-main page-scroll">{{ .label }}</a>
 				{{ end }}
 				{{ end }}
+				{{ if .button_second.enable }}
+				{{ with .button_second }}
+				<a href="{{ .link }}" target="_blank" class="btn btn-main page-scroll">{{ .label }}</a>
+				{{ end }}
+				{{ end }}
 			</div>
 		</div>
 	</div>
