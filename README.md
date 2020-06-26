@@ -9,3 +9,5 @@ NetlifyのBuild&Deploy→Environment→Environment variablesからHUGO＿VERSION
 # todai-freelance
 
 testtttttttttt
+
+merge
