@@ -7,3 +7,5 @@
 NetlifyのBuild&Deploy→Environment→Environment variablesからHUGO＿VERSIONを指定しないとbuildコマンドがNetlify上で動作しないので注意。
 ￼# todai-freelance
 # todai-freelance
+
+testtttttttttt
