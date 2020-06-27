@@ -3,8 +3,8 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: ハイクラスな案件があなたを必要としています。
-  content: 東大フリーランスに事前登録して、案件情報を優先的に受け取る
+  title: 東大フリーランス集団が、企業の課題を解決します。
+  content: 東大フリーランスに事前登録して、クローズドな案件情報を優先的に受け取る
   button:
     enable: true
     label: "(現役生) 先行登録する"
