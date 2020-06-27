@@ -1,25 +1,18 @@
-################################# funfacts ##################################
+---
 funfacts:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  enable: false
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-    # counter item loop
-    - title : "事前登録ユーザー"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "100"
-    
-    # counter item loop
-    - title : "パートナー企業"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "10"
-    
-    # counter item loop
-    - title : "アンケート回答数"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "150"
-    
-    # counter item loop
-    - title : "案件数"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+  - title: 事前登録ユーザー
+    icon: ti-face-smile
+    count: "100"
+  - title: パートナー企業
+    icon: ti-archive
+    count: "10"
+  - title: アンケート回答数
+    icon: ti-thumb-up
+    count: "150"
+  - title: 案件数
+    icon: ti-gift
+    count: "250"
