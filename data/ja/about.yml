@@ -1,16 +1,14 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Ushhuhuh
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : 東大限定の特別オファー
-    content : 東大関係者のみアクセスすることができます。
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : スキル✖️実績=人材価値
-    content : あなたの市場価値が上がる案件を厳選しています。
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : 高単価&ベストマッチング
-    content : あなたの価値を最も高く評価する案件とマッチング。
+  enable: true
+  title: About Us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: 東大関係者限定のクローズド案件データベース
+    content: 現役東大生・東大OBOGのみアクセス可能なフリーランス・副業案件をご紹介
+  - icon: ti-cup
+    title: スキル✖️実績=人材価値
+    content: あなたの市場価値が上がる案件を厳選しています。
+  - icon: ti-thought
+    title: 高単価&ベストマッチング
+    content: あなたの価値を最も高く評価する案件とマッチング。
