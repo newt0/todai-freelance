@@ -6,14 +6,14 @@ feature:
   title: "「東大フリーランス」は東大生・東大卒業生限定の副業・フリーランス案件ネットワークです。"
   content: 東大関係者限定のクローズドな案件情報を得ることが可能です。
   feature_item:
-  - title: 機械学習・深層学習
+  - title: 機械学習・AIエンジニア
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
+    content: 'ディープラーニングを使った画像認識や音声認識モデル開発、Raspberry Pi等のエッジデバイス開発まで含めたプロトタイプ実装、PoCから本番実装までの開発及び分析など、豊富なAI案件情報をご紹介
+
+'
+  - title: Webマーケティング
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: SEO対策やリスティング広告運用、SNS運用などのマーケティングに関する業務委託・コンサルなどの案件情報をご紹介
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
