@@ -1,26 +1,17 @@
-################################# Skill ##################################
+---
 skill:
-  enable : true
-  title : Skills
-  subtitle : 
-  # content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
-  skill_item :
-    # skill item loop
-    - name :  機械学習・深層学習
-      percent : 90%
-      
-    # skill item loop
-    - name :  データ分析
-      percent : 70%
-      
-    # skill item loop
-    - name :  UXデザイン
-      percent : 80%
-      
-    - name :  広告運用
-      percent : 95%
-      
-    # skill item loop
-    - name :  Web開発
-      percent : 75%
+  enable: false
+  title: Skills
+  subtitle: 
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: 機械学習・深層学習
+    percent: 90%
+  - name: データ分析
+    percent: 70%
+  - name: UXデザイン
+    percent: 80%
+  - name: 広告運用
+    percent: 95%
+  - name: Web開発
+    percent: 75%
