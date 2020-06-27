@@ -1,31 +1,17 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  # subtitle : Contact Details
-  # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-  # Contact details
+  enable: true
+  title: Contact Us
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "〒113-0033 東京都文京区本郷４丁目１−４ ユニゾ 本郷ビル 3階"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-    #   info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: todai-freelance@gmail.com"
-
-
-  # Contact form
+  - icon: ti-location-pin
+    info: "〒113-0033 東京都文京区本郷４丁目１−４ ユニゾ 本郷ビル 3階"
+  - icon: ti-email
+    info: 'Email: contact+todaifreelance@96co.jp'
   contact_form:
-    enable : false
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    enable: false
+    form_action: "#"
+    name: Your Name
+    email: Your Email
+    subject: Subject
+    message: Message
+    submit: Submit
