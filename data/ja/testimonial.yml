@@ -1,26 +1,21 @@
-################################# Testimonial #########################
+---
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew(東大情報学環)
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : 院生活と両立しながら、会社員と遜色ない収入を得ることができました。また、自分の研究内容と親和性の高い案件を受けることで、研究にも役立ちました。
-      
-    # testimonial item loop
-    - name : Mark Dinn(株式会社XXX)
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : 優秀な機械学習エンジニアを紹介して頂いたことで、プロジェクトがスムーズに進みました。東大の方ということで、安心して依頼することができました。
-      
-    # testimonial item loop
-    - name : Lemos Kail(東大工学部)
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : 自身の成長につながる開発案件を受けることができました。コミット具合も裁量権があるので、学業の負担にならない点もありがたかったです。
+  enable: false
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Jonathon Andrew(東大情報学環)
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: 院生活と両立しながら、会社員と遜色ない収入を得ることができました。また、自分の研究内容と親和性の高い案件を受けることで、研究にも役立ちました。
+  - name: Mark Dinn(株式会社XXX)
+    image: images/client/client-2.jpg
+    image_webp: images/client/client-2.webp
+    date: Dec 26, 2018
+    content: 優秀な機械学習エンジニアを紹介して頂いたことで、プロジェクトがスムーズに進みました。東大の方ということで、安心して依頼することができました。
+  - name: Lemos Kail(東大工学部)
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: 自身の成長につながる開発案件を受けることができました。コミット具合も裁量権があるので、学業の負担にならない点もありがたかったです。
