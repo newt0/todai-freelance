@@ -1,17 +1,16 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "東大Freelance"
-  content : "日本で最もハイクラスなクラウドソーシング・プラットフォーム。"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: 東大Freelance
+  content: 東大卒業生・現役東大生限定のクローズド副業・フリーランスネットワーク
   button:
-    enable : true
-    label : "事前登njhuh録する(学生)"
-    link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
-
+    enable: true
+    label: 事前登njhuh録する(学生)
+    link: https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true
   button_second:
-    enable : true
-    label : "事前登録する(既卒)"
-    link : "https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit?usp=forms_home&ths=true"
+    enable: true
+    label: 事前登録する(既卒)
+    link: https://docs.google.com/forms/d/18QMujaqRlguX8ndJIjkexhJpW2DaHo5N4vHUcIDH3Eg/edit?usp=forms_home&ths=true
