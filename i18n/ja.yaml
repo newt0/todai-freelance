@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -21,7 +22,7 @@
 - id: team
   translation: Team
 - id: pricing
-  translation: Pricing
+  translation: 案件例
 - id: blog
   translation: Blog
 - id: contact
