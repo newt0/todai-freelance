@@ -1,15 +1,15 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "ハイクラスな案件があなたを必要としています。"
-  content : "東大フリーランスに登録して、特別オファーを受け取りませんか？"
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: ハイクラスな案件があなたを必要としています。
+  content: 東大フリーランスに事前登録して、案件情報を優先的に受け取る
   button:
-    enable : true
-    label : "事前登録する(学生)"
-    link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
+    enable: true
+    label: "(現役生) 先行登録する"
+    link: https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true
   button_second:
-    enable : true
-    label : "事前登録する(既卒)"
-    link : "https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true"
+    enable: true
+    label: "(卒業生) 先行登録する"
+    link: https://docs.google.com/forms/d/1QTzVJhoeQGhHA_G47TgzpGWu8H4u1TMzbsgVsx0NfVo/edit?usp=forms_home&ths=true
