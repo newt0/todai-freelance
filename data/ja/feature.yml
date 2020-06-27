@@ -14,11 +14,9 @@ feature:
   - title: Webマーケティング
     icon: ti-panel
     content: SEO対策やリスティング広告運用、SNS運用などのマーケティングに関する業務委託・コンサルなどの案件情報をご紹介
-  - title: SEO Optimized
+  - title: データサイエンティスト
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
+    content: 分析課題に対する機械学習・統計分析を用いた仮説構築から施策提案、レポーティングの支援等
+  - title: Web・アプリエンジニア
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Web開発やアプリ開発におけるエンジニア業務委託、フリーランスPM案件など
