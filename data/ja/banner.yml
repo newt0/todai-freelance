@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: 東大Freelance
-  content: 東大卒業生・現役東大生限定のクローズド副業・フリーランスネットワーク
+  title: 東大Freelance（β）
+  content: 東大卒業生・現役東大生限定のクローズド副業・フリーランスネットワーク。
   button:
     enable: true
     label: 先行登録する(現役生)
