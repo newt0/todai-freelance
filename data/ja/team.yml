@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: 黒崎 悠一
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: images/team/yuichi_profile.webp
+    image: images/team/yuichi_profile.PNG
     designation: CEO/Founder
     content: 東大在学中に創業したメゾワンをM&Aで売却後、外資系投資銀行にて上場企業のM&Aや資金調達アドバイザリー業務に従事。2020年に独立しフリーランスのコンサルタントとして活動。AI特化型インキュベーション施設
       「KERNEL HONGO」メンバー
@@ -17,8 +17,8 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/yuichi-kurosaki/
   - name: 伊藤 匡平
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    # image_webp: images/team/team-2.webp
+    image: images/team/kyohei_profile.JPG
     designation: Web Developer/Founder
     content: 早大在学中にAIスタートアップにおいて事業開発や営業チーム立ち上げに従事。Ragnarock株式会社にてWebエンジニアとしてCameconをリリース後、2020年に独立してフリーランスのエンジニアとして活動。AI特化型インキュベーション施設
       「KERNEL HONGO」メンバー
