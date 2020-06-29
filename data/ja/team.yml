@@ -16,48 +16,16 @@ team:
       link: https://twitter.com/96one
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/yuichi-kurosaki/
-  - name: Frank Miller
+  - name: 伊藤 匡平
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Web Developer/Founder
+    content: 早大在学中にAIスタートアップにおいて事業開発や営業チーム立ち上げに従事。Ragnarock株式会社にてWebエンジニアとしてCameconをリリース後、2020年に独立してフリーランスのエンジニアとして活動。AI特化型インキュベーション施設
+      「KERNEL HONGO」メンバー
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+      link : "https://www.facebook.com/burger.king.you"
+    - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+      link : "https://twitter.com/kyohei_ai"
+    - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
+      link : "https://github.com/newt0"
