@@ -37,11 +37,11 @@
 
           {{"<!-- signup button -->" | safeHTML}}
           {{ with .button }}
-          <a class="btn btn-transparent" href="{{ .link | safeURL }}">{{ .label }}</a>
+          <a class="btn btn-transparent" href="{{ .link | safeURL }}" target="_blank">{{ .label }}</a>
           {{ end }}
           {{"<!-- signup button -->" | safeHTML}}
           {{ with .button_second }}
-          <a class="btn btn-transparent" href="{{ .link | safeURL }}">{{ .label }}</a>
+          <a class="btn btn-transparent" href="{{ .link | safeURL }}" target="_blank">{{ .label }}</a>
           {{ end }}
         </div>
       </div>
