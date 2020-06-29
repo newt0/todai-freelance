@@ -1,15 +1,27 @@
 ---
-title: "John Doe"
+title: "newt0"
 image: ""
-email: "email2@example.org"
+email: "kyohei.ito@kernel-dc.jp"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.facebook.com/burger.king.you"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://twitter.com/kyohei_ai"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/newt0"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+早稲田大学/Kernel Hongoメンバー/Web Developer。
+
+JAMStackなメディア構築やLP制作が得意です。あらゆる静的サイトジェネレーターやCMSを扱うことができます。
+
+Skills
+- Vue.js/Nuxt.js
+- Gatsby.js
+- Hugo
+- Contentful
+- Forestry
+- Netlify
+- Github
+- JavaScript ES6
+- HTML5/CSS3
