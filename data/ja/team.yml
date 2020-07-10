@@ -4,9 +4,7 @@ team:
   title: Our Team
   team_member:
   - name: 黒崎 悠一
-    # image_webp: images/team/yuichi_profile.webp
-    # image: images/team/yuichi_profile.PNG
-    designation: CEO/Founder
+    designation: Partner/Founder
     content: 東大在学中に創業したメゾワンをM&Aで売却後、外資系投資銀行にて上場企業のM&Aや資金調達アドバイザリー業務に従事。2020年に独立しフリーランスのコンサルタントとして活動。AI特化型インキュベーション施設「KERNEL
       HONGO」メンバー
     social:
@@ -17,8 +15,6 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/yuichi-kurosaki/
   - name: 伊藤 匡平
-    # image_webp: images/team/kyohei_profile.webp
-    # image: images/team/kyohei_profile.JPG
     designation: Web Developer/Founder
     content: 早大在学中にAIスタートアップにおいて事業開発や営業チーム立ち上げに従事。Ragnarock株式会社にてWebエンジニアとしてCameconをリリース。2020年に独立してフリーランスのエンジニアとして活動。AI特化型インキュベーション施設「KERNEL
       HONGO」メンバー
@@ -30,8 +26,6 @@ team:
     - icon: ti-github
       link: https://github.com/newt0
   - name: 三浦笑峰
-    # image_webp: 
-    # image: 
     designation: Full Stack Engineer / AI Researcher
     content: 松尾研究室での共同研究で某上場小売大手と需要予測の研究、企業での画像認識研究、Cinnamonでの自然言語処理研究などのAI開発の実績および、複数スタートアップでwebアプリケーション開発(インフラ、フロントエンド、API設計など)等の実績を有する。現在は医療系スタートアップでCTOを務める。
       東京大学工学部卒、東京大学大学院工学系研究科在学（休学）。Princeton大学CS留学。
