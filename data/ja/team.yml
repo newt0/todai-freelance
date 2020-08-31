@@ -5,7 +5,7 @@ team:
   team_member:
   - name: 黒崎 悠一
     designation: Partner/Founder
-    content: 東大在学中に創業したメゾワンをM&Aで売却後、外資系投資銀行にて上場企業のM&Aや資金調達アドバイザリー業務に従事。2020年に独立しフリーランスのコンサルタントとして活動。AI特化型インキュベーション施設「KERNEL
+    content: 東京大学経済学部卒。香港大学・ハーバード大学へ留学を経て合同会社メゾワンを創業。2019年にM&Aで株式会社BitStarへ同社を売却。同EXIT後、外資系証券会社の投資銀行統括本部にて不動産・ヘルスケア・保険・銀行など上場企業のグローバルM&A及び資金調達のアドバイザー業務に従事。AI特化型インキュベーション施設「KERNEL
       HONGO」メンバー
     social:
     - icon: ti-facebook
@@ -25,6 +25,12 @@ team:
       link: https://twitter.com/kyohei_ai
     - icon: ti-github
       link: https://github.com/newt0
+  - name: 中沢弘樹
+    image_webp: ''
+    image: ''
+    designation: Partner / Consultant / Full Stack Engineer
+    content: 東大在学中に複数スタートアップにおいて、Webアプリ開発、Androidアプリ開発、3Dモデリング、ビッグデータ解析等に従事。卒業後は外資系戦略コンサルティングファームに入社し、通信・証券・不動産など幅広いインダストリーに対し、既存事業のポートフォリオ戦略・新規事業立案・コストカット等の戦略策定や、PEファンド向けのビジネスデューデリジェンスを行う。2020年から、エンジニア・ビジネスサイドの両方の視点を持つフリーランスコンサルタントとしても活動。
+    social: ''
   - name: 三浦笑峰
     designation: Full Stack Engineer / AI Researcher
     content: 松尾研究室での共同研究で某上場小売大手と需要予測の研究、企業での画像認識研究、Cinnamonでの自然言語処理研究などのAI開発の実績および、複数スタートアップでwebアプリケーション開発(インフラ、フロントエンド、API設計など)等の実績を有する。現在は医療系スタートアップでCTOを務める。
